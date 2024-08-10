@@ -1,0 +1,4 @@
+Danh sach nhan vien:
+ Manv        Ho Ten     Ngay Sinh   Dia Chi        CMT   LuongCB   Phu Cap  Thuc Linh           
+        12      vu van a     28/2/2003       hcm       77889     1e+06    200000    1.2e+06           
+        13    tran van c      3/2/1930        hn       33345     2e+06     20000   2.02e+06           
